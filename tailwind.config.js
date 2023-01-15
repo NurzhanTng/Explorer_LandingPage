@@ -25,6 +25,7 @@ module.exports = {
         'gr': '#333333',
         'gr2': '#f1f1f1',
         'gr3': '#A9AFB3',
+        'gr4': '#8B8B8B',
       }
     },
   },
