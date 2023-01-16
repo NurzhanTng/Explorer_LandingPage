@@ -26,6 +26,9 @@ module.exports = {
         'gr2': '#f1f1f1',
         'gr3': '#A9AFB3',
         'gr4': '#8B8B8B',
+      },
+      width: {
+        '90vw': '90vw',
       }
     },
   },
